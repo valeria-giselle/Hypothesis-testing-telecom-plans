@@ -49,6 +49,13 @@ These datasets are used to compute user-level metrics and aggregate revenue.
 - Seaborn
 - Jupyter Notebook
 
+## 📊 Key Visualizations
+<img width="844" height="544" alt="image" src="https://github.com/user-attachments/assets/40437e4f-ba53-4efd-b7cd-765e1b52dc6c" />
+
+<img width="579" height="499" alt="image" src="https://github.com/user-attachments/assets/3164ab49-9b54-48c2-bd20-9f6668eedb52" />
+
+<img width="586" height="502" alt="image" src="https://github.com/user-attachments/assets/0aa2c705-0e66-48d9-8d48-c2986ee351e9" />
+
 ## 📈 Key Findings
 - There are clear differences in user behavior and revenue between different
   telecom plans.
