@@ -42,6 +42,13 @@ El proyecto utiliza múltiples conjuntos de datos proporcionados por Megaline, q
 - Matplotlib
 - Seaborn
 
+## 📊 Visualizaciones clave
+<img width="844" height="544" alt="image" src="https://github.com/user-attachments/assets/40437e4f-ba53-4efd-b7cd-765e1b52dc6c" />
+
+<img width="579" height="499" alt="image" src="https://github.com/user-attachments/assets/3164ab49-9b54-48c2-bd20-9f6668eedb52" />
+
+<img width="586" height="502" alt="image" src="https://github.com/user-attachments/assets/0aa2c705-0e66-48d9-8d48-c2986ee351e9" />
+
 ## 📈 Resultados clave
 - Se identificaron diferencias claras en los patrones de uso entre los planes.
 - El plan *Ultimate* mostró un consumo más intensivo y estable.
